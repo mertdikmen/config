@@ -1,4 +1,4 @@
 config
 ======
 
-I suck at backing up my config files
+Let's try this method of backing up my config files.
