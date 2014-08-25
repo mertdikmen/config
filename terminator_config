@@ -1,3 +1,4 @@
+#~/.config/terminator/config
 [global_config]
   focus = system
 [keybindings]
