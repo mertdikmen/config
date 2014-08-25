@@ -1,0 +1,24 @@
+[global_config]
+  focus = system
+[keybindings]
+  full_screen = <Ctrl><Shift>F11
+[profiles]
+  [[default]]
+    background_image = None
+    background_darkness = 0.8
+    scrollback_lines = 100000
+    background_type = transparent
+    scrollbar_position = hidden
+    show_titlebar = False
+    cursor_shape = underline
+    font = Droid Sans Mono 9
+    cursor_blink = False
+[layouts]
+  [[default]]
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+    [[[window0]]]
+      type = Window
+      parent = ""
+[plugins]
